@@ -109,12 +109,38 @@ button {
 #section3 {
   height: 1470px;
   box-sizing: border-box;
+  padding: 30px;
 }
 
 #section3 div {
   width: 395px;
   height: 425px;
-  border: 1px solid #1d4865;
+  border: 1px solid #dee1e3;
+  box-sizing: border-box;
+  margin: 30px auto;
+  padding: 240px 25px 5px 25px;
+}
+
+#section3 p {
+  font-size: 1.1rem;
+}
+
+#block1 {
+  background-image: url(../images/foto1.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+#block2 {
+  background-image: url(../images/foto2.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+#block3 {
+  background-image: url(../images/foto3.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
 }
 
 footer {
