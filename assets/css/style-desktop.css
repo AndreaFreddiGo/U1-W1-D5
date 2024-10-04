@@ -36,6 +36,7 @@ header div {
   background-color: black;
   box-sizing: border-box;
   padding: 35px;
+  padding-left: 60px;
 }
 
 header div img {
@@ -165,9 +166,9 @@ footer {
 }
 
 ul {
-  padding-left: 740px;
+  padding-left: 720px;
   list-style-type: none;
-  font-size: 1.1rem;
+  font-size: 1.3rem;
   margin-top: 35px;
   text-align: left;
 }
@@ -175,11 +176,11 @@ ul {
 footer hr {
   margin-top: 35px;
   margin-bottom: 35px;
-  width: 280px;
+  width: 310px;
 }
 
 footer p {
-  font-size: 0.8rem;
+  font-size: 0.9rem;
   text-align: center;
 }
 
@@ -188,5 +189,5 @@ footer a {
 }
 
 footer h2 {
-  font-size: 3.2rem;
+  font-size: 3.5rem;
 }

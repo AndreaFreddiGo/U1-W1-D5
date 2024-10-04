@@ -9,14 +9,6 @@ body {
   text-align: center;
 }
 
-h1,
-h2,
-h3 {
-  font-family: "Montserrat";
-  color: #25a2c3;
-  line-height: 1.5;
-}
-
 h1 {
   font-family: "Montserrat";
   color: #25a2c3;
@@ -92,18 +84,18 @@ button {
 }
 
 #p1 {
-  font-size: 0.9em;
+  font-size: 1.2rem;
   font-style: italic;
   padding-top: 35px;
 }
 
 #p2 {
-  font-size: 1.1em;
+  font-size: 1.4rem;
   padding-top: 35px;
 }
 
 #p3 {
-  font-size: 0.7em;
+  font-size: 1rem;
 }
 
 #section3 {
@@ -118,7 +110,7 @@ button {
   border: 1px solid #dee1e3;
   box-sizing: border-box;
   margin: 30px auto;
-  padding: 240px 25px 5px 25px;
+  padding: 250px 25px 5px 25px;
 }
 
 #section3 p {
