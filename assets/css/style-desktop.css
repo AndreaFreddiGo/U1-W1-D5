@@ -1,0 +1,172 @@
+body {
+  width: 450px;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: "Open Sans";
+  color: #393d41;
+  font-size: 1.3rem;
+  line-height: 1.65;
+  text-align: center;
+}
+
+h1,
+h2,
+h3 {
+  font-family: "Montserrat";
+  color: #25a2c3;
+  line-height: 1.5;
+}
+
+h1 {
+  font-family: "Montserrat";
+  color: #25a2c3;
+  line-height: 1;
+  font-size: 2.5rem;
+  padding: 30px;
+}
+
+h2 {
+  font-family: "Montserrat";
+  font-size: 2.2rem;
+  color: white;
+  line-height: 1.5;
+}
+
+h3 {
+  font-family: "Montserrat";
+  color: #25a2c3;
+  line-height: 2.5;
+  padding-top: 25px;
+}
+
+header div {
+  height: 120px;
+  background-color: black;
+  box-sizing: border-box;
+  padding: 35px;
+}
+
+header div img {
+  height: 50px;
+}
+
+header section {
+  height: 450px;
+  background-image: url(../images/banner.jpg);
+  background-size: cover;
+  background-position: 50%;
+  box-sizing: border-box;
+  padding: 35px;
+}
+
+button {
+  font-size: 1rem;
+  width: 175px;
+  height: 55px;
+  border-radius: 4px;
+  color: white;
+  font-family: "Montserrat";
+  background-color: #f04c2f;
+  border: none;
+  margin: 30px;
+}
+
+#section1 {
+  height: 1100px;
+  box-sizing: border-box;
+  padding: 40px;
+}
+
+#section1 img {
+  border-radius: 100%;
+  width: 315px;
+  padding-top: 35px;
+}
+
+#section2 {
+  color: white;
+  height: 350px;
+  box-sizing: border-box;
+  background-color: #f04c2f;
+  padding-top: 60px;
+}
+
+#p1 {
+  font-size: 0.9em;
+  font-style: italic;
+  padding-top: 35px;
+}
+
+#p2 {
+  font-size: 1.1em;
+  padding-top: 35px;
+}
+
+#p3 {
+  font-size: 0.7em;
+}
+
+#section3 {
+  height: 1470px;
+  box-sizing: border-box;
+  padding: 30px;
+}
+
+#section3 div {
+  width: 395px;
+  height: 425px;
+  border: 1px solid #dee1e3;
+  box-sizing: border-box;
+  margin: 30px auto;
+  padding: 240px 25px 5px 25px;
+}
+
+#section3 p {
+  font-size: 1.1rem;
+}
+
+#block1 {
+  background-image: url(../images/foto1.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+#block2 {
+  background-image: url(../images/foto2.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+#block3 {
+  background-image: url(../images/foto3.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+footer {
+  height: 385px;
+  background-color: #25a2c3;
+  box-sizing: border-box;
+  color: white;
+  padding: 50px;
+}
+
+ul {
+  list-style-type: none;
+  font-size: 1.2rem;
+  margin-top: 35px;
+}
+
+footer hr {
+  margin-top: 35px;
+  margin-bottom: 35px;
+  width: 230px;
+}
+
+footer p {
+  font-size: 1.1rem;
+}
+
+footer a {
+  color: white;
+}
