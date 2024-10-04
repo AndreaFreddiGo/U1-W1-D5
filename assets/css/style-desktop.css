@@ -73,13 +73,21 @@ main {
 #section1 {
   height: 1000px;
   box-sizing: border-box;
-  padding: 40px;
+  padding-top: 180px;
 }
 
 #section1 img {
   border-radius: 100%;
-  width: 315px;
-  padding-top: 35px;
+  width: 620px;
+  display: inline-block;
+}
+
+#section1 div {
+  width: 620px;
+  padding-left: 100px;
+  display: inline-block;
+  text-align: left;
+  vertical-align: top;
 }
 
 #section2 {
@@ -102,7 +110,7 @@ main {
 }
 
 #p3 {
-  font-size: 1.2rem;
+  font-size: 1rem;
 }
 
 #section3 {
@@ -171,7 +179,7 @@ footer hr {
 }
 
 footer p {
-  font-size: 1rem;
+  font-size: 0.8rem;
   text-align: center;
 }
 
